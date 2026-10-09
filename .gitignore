@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+
+# Working/source files used to build assets already in client/public —
+# not needed to run the app.
+/Patrimonio.png
+/Portal SIAF.html
+/fcca_vec (1).png
+/v1c771g5000cdajp697og65q578eae20.mp4
